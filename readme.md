@@ -2,7 +2,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/mart1n-v/autocliker)](https://github.com/mart1n-v/autocliker/releases)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.13.2-blue.svg)](https://www.python.org/)
 [![Issues](https://img.shields.io/github/issues/mart1n-v/autocliker)](https://github.com/mart1n-v/autocliker/issues)
 [![Stars](https://img.shields.io/github/stars/mart1n-v/autocliker)](https://github.com/mart1n-v/autocliker/stargazers)
 
@@ -31,3 +31,4 @@ git clone https://github.com/mart1n-v/autocliker.git
 cd autocliker
 pip install keyboard
 python main.py
+```
