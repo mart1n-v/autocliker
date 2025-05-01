@@ -12,7 +12,7 @@
 
 ## Features
 
-- **Presses the 'E' Key Automatically** – Because pressing it manually is so 2024.
+- **Presses the 'E' Key Automatically** – Because pressing it manually is so exhausting.
 - **Customizable Interval** – Set the delay between presses from 0.01 to 10 seconds.
 - **Hotkey Toggle** – Hit **Ctrl+Shift+E** globally to start or stop without clicking the window.
 - **Simple GUI** – Just a window with Start, Stop, Exit, and a box to set the interval.
